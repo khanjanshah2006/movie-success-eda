@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# LaTeX build output
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.lof
+report/*.lot
+report/*.synctex.gz
+report/*.fdb_latexmk
+report/*.fls
+report/overleaf_upload.zip

@@ -1,0 +1,165 @@
+{
+  "n_financial": 6560,
+  "budget_revenue_pearson_loglog": 0.638,
+  "budget_revenue_pearson_p": 0.0,
+  "budget_revenue_spearman": 0.675,
+  "pct_below_breakeven": 26.5,
+  "pct_budgets_round_million": 78.7,
+  "annotated_titles": [
+    "Avatar (2009)",
+    "Avengers: Endgame (2019)",
+    "Red Notice (2021)",
+    "The Killer (2023)"
+  ],
+  "flop_title_a": "Red Notice (2021)",
+  "flop_revenue_a": 178143.0,
+  "flop_budget_a": 160000000.0,
+  "flop_title_b": "The Killer (2023)",
+  "flop_revenue_b": 362113.0,
+  "flop_budget_b": 175000000.0,
+  "top_title_a": "Avatar (2009)",
+  "top_title_b": "Avengers: Endgame (2019)",
+  "genre_top_median_roi": "Animation",
+  "genre_top_median_roi_value": 2.83,
+  "genre_bottom_median_roi": "History",
+  "genre_min_n": 100,
+  "roi_outliers": [
+    "Paranormal Activity (2007): ROI 12,890 on $15,000",
+    "The Blair Witch Project (1999): ROI 4,144 on $60,000"
+  ],
+  "horror_mean_roi": 26.39,
+  "horror_median_roi": 2.43,
+  "animation_median_budget_m": 77.0,
+  "horror_median_budget_m": 15.4,
+  "mystery_mean_roi": 32.69,
+  "mystery_median_roi": 2.03,
+  "history_median_roi": 1.53,
+  "rating_revenue_spearman": 0.074,
+  "rating_revenue_p": 2.13660032700361e-09,
+  "month_kruskal_p": 1.0229401836567381e-44,
+  "best_month": 6,
+  "best_month_median": 65370009.5,
+  "worst_month": 9,
+  "worst_month_median": 22522934.5,
+  "n_month": 6560,
+  "july_median": 59999667.0,
+  "december_median": 58469210.0,
+  "june_to_september_ratio": 2.9,
+  "roi_budget_spearman": -0.13,
+  "votes_revenue_spearman": 0.656,
+  "rating_votes_spearman": 0.306,
+  "budget_year_spearman": 0.234,
+  "roi_budget_spearman_p": 4.616634757717669e-26,
+  "runtime_rating_spearman": 0.292,
+  "runtime_rating_p": 2.529532217346171e-196,
+  "runtime_rating_n": 9995,
+  "decade_table": [
+    {
+      "decade": 1910,
+      "n": 2,
+      "median_budget_2025": 7300276.053806315,
+      "median_roi": 502.2673856654583
+    },
+    {
+      "decade": 1920,
+      "n": 6,
+      "median_budget_2025": 9075329.07230689,
+      "median_roi": 2.833513903936439
+    },
+    {
+      "decade": 1930,
+      "n": 26,
+      "median_budget_2025": 17803870.226023216,
+      "median_roi": 2.7594786729857823
+    },
+    {
+      "decade": 1940,
+      "n": 45,
+      "median_budget_2025": 21005775.27662106,
+      "median_roi": 3.3846541353383457
+    },
+    {
+      "decade": 1950,
+      "n": 78,
+      "median_budget_2025": 21865970.22067832,
+      "median_roi": 4.57379913521048
+    },
+    {
+      "decade": 1960,
+      "n": 123,
+      "median_budget_2025": 29755964.056482665,
+      "median_roi": 4.333538333333333
+    },
+    {
+      "decade": 1970,
+      "n": 217,
+      "median_budget_2025": 20931716.503148336,
+      "median_roi": 6.25
+    },
+    {
+      "decade": 1980,
+      "n": 536,
+      "median_budget_2025": 33067893.79800693,
+      "median_roi": 3.1808570033049426
+    },
+    {
+      "decade": 1990,
+      "n": 940,
+      "median_budget_2025": 52771272.12257987,
+      "median_roi": 2.0707163266666666
+    },
+    {
+      "decade": 2000,
+      "n": 1728,
+      "median_budget_2025": 44870104.52961672,
+      "median_roi": 2.001324367368421
+    },
+    {
+      "decade": 2010,
+      "n": 2121,
+      "median_budget_2025": 27198463.549788546,
+      "median_roi": 2.143850375
+    },
+    {
+      "decade": 2020,
+      "n": 738,
+      "median_budget_2025": 26975945.64588157,
+      "median_roi": 1.3764780092242195
+    }
+  ],
+  "decade_1970_median_budget_m": 20.9,
+  "decade_1970_median_roi": 6.25,
+  "decade_1970_n": 217,
+  "decade_1990_median_budget_m": 52.8,
+  "decade_1990_median_roi": 2.07,
+  "decade_1990_n": 940,
+  "decade_2010_median_budget_m": 27.2,
+  "decade_2010_median_roi": 2.14,
+  "decade_2010_n": 2121,
+  "decade_2020_median_budget_m": 27.0,
+  "decade_2020_median_roi": 1.38,
+  "decade_2020_n": 738,
+  "value_top_genre": "Horror",
+  "value_top_ratio": 4.09,
+  "value_second_genre": "Drama",
+  "value_bottom_genre": "Adventure",
+  "value_bottom_ratio": 0.77,
+  "value_top_rating_genre": "War",
+  "value_top_rating": 7.18,
+  "genre_budget_rating_spearman": 0.189,
+  "genre_budget_rating_p": 0.46835057541875347,
+  "genre_budget_rating_n": 17,
+  "mid_n": 1893,
+  "mid_roi_2000s": 1.78,
+  "mid_roi_2010s": 1.89,
+  "mid_roi_2020s": 1.0,
+  "mid_pct_prof_2000s": 70.4,
+  "mid_pct_prof_2010s": 70.0,
+  "mid_pct_prof_2020s": 50.2,
+  "mid_n_2000s": 785,
+  "mid_n_2010s": 829,
+  "mid_n_2020s": 279,
+  "mid_kruskal_p": 2.4719229704523967e-10,
+  "mid_chi2_p": 3.9066629415292977e-10,
+  "mid_2000s_vs_2010s_p": 0.8792288111285081
+}

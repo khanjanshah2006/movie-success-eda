@@ -1,0 +1,23 @@
+{
+  "n_all": 9996,
+  "n_financial": 6560,
+  "budget_skew": 2.98,
+  "revenue_skew": 4.84,
+  "budget_median": 20000000.0,
+  "revenue_median": 39197782.5,
+  "runtime_skew": 0.25,
+  "rating_skew": -0.33,
+  "rating_mean": 6.66,
+  "pct_films_since_1990": 84.8,
+  "pct_fin_since_1990": 84.3,
+  "n_genres": 19,
+  "top_genre": "Drama",
+  "top_genre_count": 4376,
+  "second_language": "fr",
+  "second_language_count": 608,
+  "english_to_second_ratio": 13.1,
+  "n_genre_combinations_raw": 2101,
+  "top_content_rating": "R",
+  "top_content_rating_count": 4015,
+  "runtime_median": 104.0
+}
